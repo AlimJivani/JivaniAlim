@@ -1,7 +1,17 @@
 # Hello, I'm Alim Jivani 👋
 
 ## About Me
-I'm a passionate Full Stack Developer from ON, Canada. I love to code. 🧑🏻‍💻 I'm currently improving my problem-solving skills along with development using Tech💻 like NodeJS, ExpressJS, NextJS, ReactJs, Php, Symfony etc.
+👋 Hello, I'm Alim Jivani, a dedicated web developer based in Canada with a passion for crafting dynamic and seamless web applications. With a strong foundation in both frontend and backend development, I specialize in a range of technologies including various JavaScript frameworks like React, Next Js and Angular, Node.js (Express), and PHP frameworks like Symfony and Laravel.
+
+🎓 I hold a post-graduation diploma in web development from Conestoga College and a bachelor's degree in IT from C.U.Shah University. My academic background, coupled with over a year of hands-on experience as a Full Stack Developer at Karavya Solutions LLP, has equipped me with the skills to tackle complex challenges and deliver high-quality solutions.
+
+💼 In my recent role creating a capstone project called Swift Rentals, I led the development of a cutting-edge car rental management platform. Leveraging technologies such as MongoDB, Express.js, Next.js, Tailwind, Git, and the Stripe payment gateway, I ensured a seamless experience for users from start to finish. Real-time chat functionality, dynamic content rendering, and secure online payments were just a few of the features I implemented to enhance user satisfaction.
+
+🚀 I'm always eager to expand my knowledge and stay up-to-date with the latest industry trends. I recently completed the "Build a Full-Stack JavaScript Application Using AWS Amplify" certification on LinkedIn Learning, furthering my expertise in full-stack development.
+
+🌱 Outside of work, I am actively involved in volunteering efforts focused on management information systems for ITREB India. This experience has allowed me to develop strong organizational and communication skills, which I bring to every project I undertake.
+
+💬 I am currently seeking new opportunities in the MERN stack or PHP universe and am excited to collaborate with forward-thinking teams to create innovative solutions. Let's connect and explore how my skills can contribute to your team's success!
 
 ## Skills
 ### Programming Languages
